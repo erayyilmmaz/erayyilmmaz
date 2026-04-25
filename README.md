@@ -70,7 +70,8 @@ Currently working on software solutions in the **biotechnology / bioinformatics*
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/eray-y%C4%B1lmaz/
-- 💻 GitHub: https://github.com/eraykingforaday
+- 💻 GitHub: https://github.com/erayyilmmaz
+- 🌐 Website: https://www.erayyilmaz.co/
 - 📫 Email: erayyilmazx@outlook.com
 
 ---
