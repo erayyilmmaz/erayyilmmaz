@@ -84,6 +84,6 @@ Currently working on software solutions in the **biotechnology / bioinformatics*
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eraykingforaday&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erayyilmmaz&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eraykingforaday&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayyilmmaz&layout=compact)
